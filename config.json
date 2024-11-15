@@ -1,0 +1,9 @@
+{
+    "language": "en-US",
+    "pause_key": "f9",
+    "exit_key": "ctrl+c",
+    "typing_delay": 0.01,
+    "auto_capitalize": true,
+    "auto_punctuate": true,
+    "log_errors": true
+}
